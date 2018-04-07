@@ -1,0 +1,11 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  margin: 1%;
+}
+
+.markup {
+  background-color: #ffe082;
+}
