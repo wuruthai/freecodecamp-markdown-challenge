@@ -1,4 +1,4 @@
 Github Markdowner
 
-$npm install or $sudo npm install
-npm start
+$ npm install or $sudo npm install
+$ npm start
